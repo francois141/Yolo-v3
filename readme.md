@@ -29,3 +29,8 @@ python main.py
 ```
 
 or by running the notebook demo.ipynb
+
+
+#### Sources
+
+I used some part of this code and took insipiration from this implementation to learn how yolo works.
