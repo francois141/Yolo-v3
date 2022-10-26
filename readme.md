@@ -36,6 +36,3 @@ or by running the notebook demo.ipynb
 I used some part of this code and took insipiration from this implementation to learn how yolo works.
 https://www.kaggle.com/code/arunmohan003/yolo-v3-pytorch-tutorial-from-scratch
 
-#### TODO: 
-
-Add the training pipeline
